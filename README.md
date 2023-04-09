@@ -1,2 +1,2 @@
 # backtesting
-There will be multiple strategy that will be backtested on this repertory, at least one every months.
+I will post on this repertory the backtest of trading strategy, at least one every months.
