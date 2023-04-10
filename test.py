@@ -1,0 +1,1 @@
+print("Voici rien du tout")
